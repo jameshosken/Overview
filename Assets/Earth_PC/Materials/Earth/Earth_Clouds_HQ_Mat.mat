@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Earth_Clouds_HQ_Mat
+  m_Shader: {fileID: -6465566751694194690, guid: 2196c0b6d96ae734dbbc5900749bb564,
+    type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _Texture2DAsset_4DAFC498_Out_0:
+        m_Texture: {fileID: 2800000, guid: 68bd488068a7c2144a5c70e58a132c40, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_3AE9A1B2: 200
+    - Vector1_3CD474E6: -0.5
+    - Vector1_433CF89B: 800
+    - Vector1_4A7A928B: 500
+    - Vector1_554D0AB7: 0.05
+    - Vector1_589F0463: 500
+    - Vector1_5CB967E1: 0.033
+    - Vector1_665F054B: 10
+    - Vector1_89CE8BCA: 0.0002
+    - Vector1_937CE065: -0.0025
+    - Vector1_BD35279F: 0.33
+    - Vector1_C2CE171E: 0.1
+    - Vector1_D0E0F8F: 0
+    - Vector1_F068FA2A: 0.005
+    - Vector1_F3FC9018: 0.001
+    m_Colors:
+    - Color_31234390: {r: 0.0990566, g: 0.74156207, b: 1, a: 0}
+    - Color_D23CC52A: {r: 1.3088408, g: 2.1185474, b: 1.1313709, a: 0}
+    - Color_FE015CF: {r: 1.6494584, g: 0.42002806, b: 0, a: 0}
+    - HandPosition: {r: 0, g: 0, b: 0, a: 0}
+    - Vector2_1F8D9847: {r: -0.0001, g: 0.0001, b: 0, a: 0}
+    - Vector2_A48E6387: {r: 500, g: 550, b: 0, a: 0}
+    - Vector2_E909DBCA: {r: 500, g: 1000, b: 0, a: 0}
